@@ -1,1 +1,1 @@
-[![Watch the video]](https://github.com/panhongwei/PeFncTrace/blob/master/demo.mp4)
+![Tool usage video](https://github.com/panhongwei/PeFncTrace/blob/master/demo.mp4)
